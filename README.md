@@ -14,7 +14,7 @@ For any query or want to know how it works join
 
 
 ## FORK AT YOUR OWN RISK !
-## Don't Forget To Give A Star 猸�
+## Don't Forget To Give A Star 
 ### Installing Heroku 
 
 ### The Easy Way
