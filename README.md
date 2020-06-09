@@ -4,7 +4,7 @@
 <img src="logo.jpg" alt="Legend Bot">
 
 Best User Bot To Manage Your Telegram Account
-## Most PowerFul And Better And Secure !
+## Most PowerFull And Better And Secure !
 
 ## By SeekingLegend
 
