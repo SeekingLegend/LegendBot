@@ -45,11 +45,11 @@ for name in files:
     with open(name) as f:
         path1 = Path(f.name)
         shortname = path1.stem
-        load_module(shortname.replace(".py", ""))
+        load_module(shortname.replace(".py"))
 
 import userbot._core
 
-print("Hehe!! Ur Userbot Is Now Working U Should Owe @SeekingLegend")
+print("Hehe!! Ur Userbot Is Now Working U Should Thank @SeekingLegend")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
